@@ -5,7 +5,7 @@
 **Site:** [www.dnconsultores.co.mz](https://www.dnconsultores.co.mz)  
 **Repositório:** apresentação pública sem o código-fonte da aplicação
 
-![Logótipo DN Consultores](assets/logo.png)
+![Preview DN Consultores](assets/web.png)
 
 ## Visão geral
 
@@ -13,10 +13,10 @@ Website institucional desenvolvido para a **DN Consultores**, empresa de serviç
 
 > **Evidência:** as funcionalidades e tecnologias abaixo foram identificadas nos ficheiros do projecto disponibilizados pelo autor. O domínio constitui a referência pública do trabalho. No momento de preparação deste showcase, não foi possível capturar nem validar visualmente a versão em produção; por isso, as imagens aqui incluídas são **recursos do projecto**, não screenshots do site activo.
 
-## Tecnologias identificadas
+## Tecnologias utilizadas
 
-- **Next.js 16.2.9**, **React 19.2.4** e **TypeScript**
-- **Tailwind CSS 4** para estilos responsivos
+- **Next.js**, **React** e **TypeScript**
+- **Tailwind CSS** para estilos responsivos
 - **Framer Motion** para animações
 - **Nodemailer** para processamento de mensagens do formulário de contacto e subscrição
 - Metadados SEO, sitemap e robots gerados no Next.js
@@ -61,7 +61,7 @@ Next.js / React (App Router)
 
 Para decisões técnicas, consulte [docs/arquitectura.md](docs/arquitectura.md).
 
-## Demonstração e verificação
+## Demonstração
 
 1. Visite o [site institucional](https://www.dnconsultores.co.mz).
 2. Navegue pelas páginas de serviços, sobre a empresa e oportunidades.
