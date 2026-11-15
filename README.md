@@ -36,13 +36,17 @@ Website institucional desenvolvido para a **DN Consultores**, empresa de serviç
 
 ## Recursos visuais presentes no código
 
-### Imagem principal
-![Imagem de fundo utilizada na secção principal do projecto](assets/hero-bg.jpeg)
 
-### Secções institucionais
-![Imagem do módulo de serviços presente no projecto](assets/services.jpeg)
+![Imagem 1](assets/1.png)
 
-![Imagem do Grupo DN presente no projecto](assets/grupo-dn.jpeg)
+
+![Imagem 2](assets/2.png)
+
+![Imagem 3](assets/3.png)
+
+![Imagem 3](assets/4.png)
+
+![Imagem 3](assets/5.png)
 
 As imagens acima foram extraídas da pasta `public/images` do projecto. **Não são capturas da interface em produção.** A sua publicação deve respeitar a autorização da DN Consultores e os direitos dos respectivos titulares.
 
